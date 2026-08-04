@@ -33,7 +33,9 @@ _Editorial review in progress._
 
 ### Practice management and client portals
 
-_Editorial review in progress._
+- [Canopy](https://www.getcanopy.com/) — Cloud practice-management platform for US accounting, CPA, tax, and bookkeeping firms, with client management, workflow, a portal, document management, billing, and payments.
+- [Karbon](https://karbonhq.com/) — Practice-management platform for accounting firms.
+- [TaxDome](https://taxdome.com/) — Practice-management platform for accounting firms, with workflow automation, CRM, secure client portal, document exchange, and e-signatures.
 
 ### Document collection and e-signature
 
