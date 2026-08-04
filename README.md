@@ -4,6 +4,8 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
+**Last reviewed:** 2026-08-04 · See the [changelog](CHANGELOG.md).
+
 ## Important notes
 
 - This is an independent, editorially maintained reference — not a ranking, certification, or endorsement.
@@ -29,7 +31,10 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 ### Tax preparation and workflow
 
-_Editorial review in progress._
+- [CCH Axcess Tax](https://www.wolterskluwer.com/en/solutions/cch-axcess/tax) — Cloud tax software from Wolters Kluwer for professional tax preparation.
+- [Drake Tax](https://www.drakesoftware.com/products/drake-tax/) — Professional tax-preparation software from Drake Software.
+- [Intuit ProSeries Tax](https://accountants.intuit.com/tax-software/proseries/) — Professional tax-preparation software from Intuit.
+- [UltraTax CS](https://tax.thomsonreuters.com/en/products/ultratax-cs) — Professional tax software from Thomson Reuters.
 
 ### Practice management and client portals
 
@@ -39,7 +44,8 @@ _Editorial review in progress._
 
 ### Document collection and e-signature
 
-_Editorial review in progress._
+- [Liscio](https://www.liscio.me/) — Client-communication and file-intelligence platform for accounting and bookkeeping firms, with requests, secure messages, files, and e-signatures.
+- [SafeSend](https://safesend.com/) — Tax-workflow platform for accounting firms, including return assembly and delivery automation.
 
 ### Accounting, bookkeeping, and advisory
 
