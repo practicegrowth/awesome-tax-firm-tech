@@ -49,7 +49,10 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 ### Accounting, bookkeeping, and advisory
 
-_Editorial review in progress._
+- [BILL](https://www.bill.com/for-accountants) — Accounts-payable and accounts-receivable automation platform for accounting firms, with an accountant console for managing client entities.
+- [Dext](https://dext.com/us) — Bookkeeping-automation platform for collecting, processing, and storing receipts, invoices, and business documents.
+- [QuickBooks Online Accountant](https://quickbooks.intuit.com/global/accountants-software/) — Intuit's cloud accounting platform for accounting professionals, with accountant tools and access to client QuickBooks Online books.
+- [Xero Partner Program](https://www.xero.com/us/partner-programme/) — Partner program for accounting and bookkeeping practices using Xero products with clients.
 
 ### Payments, billing, and engagement
 
