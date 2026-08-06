@@ -60,7 +60,7 @@ _Editorial review in progress._
 
 ### AI and automation
 
-_Editorial review in progress._
+- [Workforce Wave](https://www.workforcewave.com/) — AI voice agent and virtual receptionist that answers missed calls, books appointments, and captures new-client leads after hours, useful for tax and CPA firms during seasonal call-volume spikes.
 
 ### Security and firm operations
 
