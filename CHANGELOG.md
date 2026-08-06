@@ -9,3 +9,8 @@ All notable editorial changes are documented here. Product links and factual des
 - Added initial tax-preparation entries: CCH Axcess Tax, Drake Tax, Intuit ProSeries Tax, and UltraTax CS.
 - Added initial document-collection and tax-delivery entries: Liscio and SafeSend.
 - Added initial accounting and bookkeeping entries: BILL, Dext, QuickBooks Online Accountant, and the Xero Partner Program.
+
+## 2026-08-06
+
+- Merged community pull request #1, adding Workforce Wave to the AI and automation category after verification against its official product pages.
+- Added initial payments, billing, and engagement entries: CPACharge, Financial Cents, and Ignition.

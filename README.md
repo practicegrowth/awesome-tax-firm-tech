@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-04 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-06 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -56,7 +56,9 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 ### Payments, billing, and engagement
 
-_Editorial review in progress._
+- [CPACharge](https://www.cpacharge.com/features/payments/) — Payment-processing platform built for accounting firms, supporting online, in-office, and mobile card, debit, and eCheck payments.
+- [Financial Cents](https://financial-cents.com/proposals/) — Proposal, engagement-letter, billing, and payment features for accounting firms.
+- [Ignition](https://www.ignitionapp.com/cpas) — Client-engagement platform for CPA firms that supports proposals, engagement letters, billing, and payment collection.
 
 ### AI and automation
 
