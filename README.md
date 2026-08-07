@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-06 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-07 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -66,7 +66,9 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 ### Security and firm operations
 
-_Editorial review in progress._
+- [Keeper](https://www.keepersecurity.com/en_GB/accountants-cybersecurity-guide.html) — Password-management and secure digital-vault platform with resources for accounting firms.
+- [Practice Protect](https://practiceprotect.com/solutions/) — Security and identity-management platform designed for accounting firms.
+- [Rightworks](https://www.rightworks.com/) — Cloud hosting, security, and managed-IT provider for accounting and tax applications.
 
 ## Suggest a tool or correction
 

@@ -14,3 +14,7 @@ All notable editorial changes are documented here. Product links and factual des
 
 - Merged community pull request #1, adding Workforce Wave to the AI and automation category after verification against its official product pages.
 - Added initial payments, billing, and engagement entries: CPACharge, Financial Cents, and Ignition.
+
+## 2026-08-07
+
+- Added initial security and firm-operations entries: Keeper, Practice Protect, and Rightworks.
