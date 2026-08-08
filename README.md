@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-07 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-08 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -77,6 +77,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull r
 ## Maintenance
 
 This repository is reviewed monthly for additions, corrections, and broken links, with a deeper editorial review each quarter. See [MAINTENANCE.md](MAINTENANCE.md) for the public maintenance standard.
+
+## Machine-readable catalog
+
+The curated categories and official vendor URLs are also available as [JSON](data/tools.json) for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
 
 ## About
 

@@ -18,3 +18,7 @@ All notable editorial changes are documented here. Product links and factual des
 ## 2026-08-07
 
 - Added initial security and firm-operations entries: Keeper, Practice Protect, and Rightworks.
+
+## 2026-08-08
+
+- Added a machine-readable JSON catalog for the curated categories and official vendor URLs.

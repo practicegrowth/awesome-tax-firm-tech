@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "repository": "practicegrowth/awesome-tax-firm-tech",
+  "last_reviewed": "2026-08-08",
+  "license": "CC-BY-4.0",
+  "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
+  "categories": [
+    {"id": "tax-preparation-workflow", "name": "Tax preparation and workflow"},
+    {"id": "practice-management-client-portals", "name": "Practice management and client portals"},
+    {"id": "document-collection-esignature", "name": "Document collection and e-signature"},
+    {"id": "accounting-bookkeeping-advisory", "name": "Accounting, bookkeeping, and advisory"},
+    {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement"},
+    {"id": "ai-automation", "name": "AI and automation"},
+    {"id": "security-firm-operations", "name": "Security and firm operations"}
+  ],
+  "tools": [
+    {"name": "CCH Axcess Tax", "category": "tax-preparation-workflow", "url": "https://www.wolterskluwer.com/en/solutions/cch-axcess/tax"},
+    {"name": "Drake Tax", "category": "tax-preparation-workflow", "url": "https://www.drakesoftware.com/products/drake-tax/"},
+    {"name": "Intuit ProSeries Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/proseries/"},
+    {"name": "UltraTax CS", "category": "tax-preparation-workflow", "url": "https://tax.thomsonreuters.com/en/products/ultratax-cs"},
+    {"name": "Canopy", "category": "practice-management-client-portals", "url": "https://www.getcanopy.com/"},
+    {"name": "Karbon", "category": "practice-management-client-portals", "url": "https://karbonhq.com/"},
+    {"name": "TaxDome", "category": "practice-management-client-portals", "url": "https://taxdome.com/"},
+    {"name": "Liscio", "category": "document-collection-esignature", "url": "https://www.liscio.me/"},
+    {"name": "SafeSend", "category": "document-collection-esignature", "url": "https://safesend.com/"},
+    {"name": "BILL", "category": "accounting-bookkeeping-advisory", "url": "https://www.bill.com/for-accountants"},
+    {"name": "Dext", "category": "accounting-bookkeeping-advisory", "url": "https://dext.com/us"},
+    {"name": "QuickBooks Online Accountant", "category": "accounting-bookkeeping-advisory", "url": "https://quickbooks.intuit.com/global/accountants-software/"},
+    {"name": "Xero Partner Program", "category": "accounting-bookkeeping-advisory", "url": "https://www.xero.com/us/partner-programme/"},
+    {"name": "CPACharge", "category": "payments-billing-engagement", "url": "https://www.cpacharge.com/features/payments/"},
+    {"name": "Financial Cents", "category": "payments-billing-engagement", "url": "https://financial-cents.com/proposals/"},
+    {"name": "Ignition", "category": "payments-billing-engagement", "url": "https://www.ignitionapp.com/cpas"},
+    {"name": "Workforce Wave", "category": "ai-automation", "url": "https://www.workforcewave.com/"},
+    {"name": "Keeper", "category": "security-firm-operations", "url": "https://www.keepersecurity.com/en_GB/accountants-cybersecurity-guide.html"},
+    {"name": "Practice Protect", "category": "security-firm-operations", "url": "https://practiceprotect.com/solutions/"},
+    {"name": "Rightworks", "category": "security-firm-operations", "url": "https://www.rightworks.com/"}
+  ]
+}
