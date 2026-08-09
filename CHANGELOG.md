@@ -22,3 +22,7 @@ All notable editorial changes are documented here. Product links and factual des
 ## 2026-08-08
 
 - Added a machine-readable JSON catalog for the curated categories and official vendor URLs.
+
+## 2026-08-09
+
+- Added field documentation and an update policy for the machine-readable catalog.
