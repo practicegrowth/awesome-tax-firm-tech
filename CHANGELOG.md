@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-10
+
+- Expanded tax-preparation coverage with Lacerte Tax and ProConnect Tax, verified against Intuit's official product pages.
+
 ## 2026-08-04
 
 - Established the repository's editorial framework, contribution process, and maintenance standard.
