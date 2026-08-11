@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-08",
+  "last_reviewed": "2026-08-10",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -16,6 +16,8 @@
   "tools": [
     {"name": "CCH Axcess Tax", "category": "tax-preparation-workflow", "url": "https://www.wolterskluwer.com/en/solutions/cch-axcess/tax"},
     {"name": "Drake Tax", "category": "tax-preparation-workflow", "url": "https://www.drakesoftware.com/products/drake-tax/"},
+    {"name": "Lacerte Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/lacerte/"},
+    {"name": "ProConnect Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/tax-online/"},
     {"name": "Intuit ProSeries Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/proseries/"},
     {"name": "UltraTax CS", "category": "tax-preparation-workflow", "url": "https://tax.thomsonreuters.com/en/products/ultratax-cs"},
     {"name": "Canopy", "category": "practice-management-client-portals", "url": "https://www.getcanopy.com/"},
