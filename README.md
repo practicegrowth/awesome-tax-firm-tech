@@ -80,6 +80,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue or pull r
 
 This repository is reviewed monthly for additions, corrections, and broken links, with a deeper editorial review each quarter. See [MAINTENANCE.md](MAINTENANCE.md) for the public maintenance standard.
 
+## Evaluation guide
+
+Use the vendor-neutral [tax-firm technology evaluation guide](guides/evaluating-tax-firm-technology.md) to structure product comparisons, pilots, and decision records.
+
 ## Machine-readable catalog
 
 The curated categories and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
