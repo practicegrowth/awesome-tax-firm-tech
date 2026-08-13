@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-12
+
+- Added a repository-native catalog-integrity workflow to validate JSON structure, category references, HTTPS URLs, unique tool names, and README coverage on relevant changes and weekly.
+
 ## 2026-08-11
 
 - Added a vendor-neutral guide for evaluating tax-firm technology, including evidence capture, a decision scorecard, category-specific prompts, and a bounded-pilot framework.

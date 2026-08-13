@@ -14,3 +14,5 @@ The catalog intentionally does not assign rankings, scores, security certificati
 ## Update policy
 
 The catalog is updated in the same commit as a README addition, removal, or category change. Consumers should use the repository history and [changelog](../CHANGELOG.md) to inspect material changes.
+
+Catalog structure and README coverage are automatically checked on pull requests, qualifying updates to `main`, and weekly through the repository's **Catalog integrity** workflow. The check verifies JSON structure, category references, unique tool names, HTTPS URLs, and that every catalog entry also appears in the README. It does not certify that a vendor page is available, current, secure, or suitable for a firm's use.
