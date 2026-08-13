@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-10",
+  "last_reviewed": "2026-08-13",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -10,6 +10,7 @@
     {"id": "document-collection-esignature", "name": "Document collection and e-signature"},
     {"id": "accounting-bookkeeping-advisory", "name": "Accounting, bookkeeping, and advisory"},
     {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement"},
+    {"id": "tax-research-irs-services", "name": "Tax research and IRS services"},
     {"id": "ai-automation", "name": "AI and automation"},
     {"id": "security-firm-operations", "name": "Security and firm operations"}
   ],
@@ -32,6 +33,9 @@
     {"name": "CPACharge", "category": "payments-billing-engagement", "url": "https://www.cpacharge.com/features/payments/"},
     {"name": "Financial Cents", "category": "payments-billing-engagement", "url": "https://financial-cents.com/proposals/"},
     {"name": "Ignition", "category": "payments-billing-engagement", "url": "https://www.ignitionapp.com/cpas"},
+    {"name": "CCH AnswerConnect", "category": "tax-research-irs-services", "url": "https://www.wolterskluwer.com/en/solutions/cch-answerconnect-us/tax-research"},
+    {"name": "Checkpoint Edge", "category": "tax-research-irs-services", "url": "https://tax.thomsonreuters.com/en/products/checkpoint-edge"},
+    {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals"},
     {"name": "Workforce Wave", "category": "ai-automation", "url": "https://www.workforcewave.com/"},
     {"name": "Keeper", "category": "security-firm-operations", "url": "https://www.keepersecurity.com/en_GB/accountants-cybersecurity-guide.html"},
     {"name": "Practice Protect", "category": "security-firm-operations", "url": "https://practiceprotect.com/solutions/"},
