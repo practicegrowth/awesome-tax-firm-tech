@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-13 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-14 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -27,6 +27,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 - [Accounting, bookkeeping, and advisory](#accounting-bookkeeping-and-advisory)
 - [Payments, billing, and engagement](#payments-billing-and-engagement)
 - [Tax research and IRS services](#tax-research-and-irs-services)
+- [Tax resolution and representation](#tax-resolution-and-representation)
 - [AI and automation](#ai-and-automation)
 - [Security and firm operations](#security-and-firm-operations)
 
@@ -68,6 +69,11 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 - [CCH AnswerConnect](https://www.wolterskluwer.com/en/solutions/cch-answerconnect-us/tax-research) — Tax-research platform from Wolters Kluwer with federal and state research materials, tools, and AI-enabled search.
 - [Checkpoint Edge](https://tax.thomsonreuters.com/en/products/checkpoint-edge) — Tax and accounting research platform from Thomson Reuters with AI- and machine-learning-assisted search tools.
 - [IRS Tax Pro Account](https://www.irs.gov/tax-professionals) — IRS online service for qualified tax professionals, including authorization requests and management of active CAF authorizations.
+
+### Tax resolution and representation
+
+- [IRS Transcript Delivery System](https://www.irs.gov/tax-professionals/transcript-delivery-system-tds) — IRS e-Services application for eligible tax professionals to access client transcript information, subject to IRS credentials and authorization requirements.
+- [PitBullTax](https://www.pitbulltax.com/) — Tax-resolution case-management and workflow software for tax professionals.
 
 ### AI and automation
 

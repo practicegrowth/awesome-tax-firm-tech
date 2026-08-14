@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-13",
+  "last_reviewed": "2026-08-14",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -11,6 +11,7 @@
     {"id": "accounting-bookkeeping-advisory", "name": "Accounting, bookkeeping, and advisory"},
     {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement"},
     {"id": "tax-research-irs-services", "name": "Tax research and IRS services"},
+    {"id": "tax-resolution-representation", "name": "Tax resolution and representation"},
     {"id": "ai-automation", "name": "AI and automation"},
     {"id": "security-firm-operations", "name": "Security and firm operations"}
   ],
@@ -36,6 +37,8 @@
     {"name": "CCH AnswerConnect", "category": "tax-research-irs-services", "url": "https://www.wolterskluwer.com/en/solutions/cch-answerconnect-us/tax-research"},
     {"name": "Checkpoint Edge", "category": "tax-research-irs-services", "url": "https://tax.thomsonreuters.com/en/products/checkpoint-edge"},
     {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals"},
+    {"name": "IRS Transcript Delivery System", "category": "tax-resolution-representation", "url": "https://www.irs.gov/tax-professionals/transcript-delivery-system-tds"},
+    {"name": "PitBullTax", "category": "tax-resolution-representation", "url": "https://www.pitbulltax.com/"},
     {"name": "Workforce Wave", "category": "ai-automation", "url": "https://www.workforcewave.com/"},
     {"name": "Keeper", "category": "security-firm-operations", "url": "https://www.keepersecurity.com/en_GB/accountants-cybersecurity-guide.html"},
     {"name": "Practice Protect", "category": "security-firm-operations", "url": "https://practiceprotect.com/solutions/"},
