@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-13
+
+- Added tax-research and IRS-services coverage: CCH AnswerConnect, Checkpoint Edge, and IRS Tax Pro Account.
+
 ## 2026-08-12
 
 - Added a repository-native catalog-integrity workflow to validate JSON structure, category references, HTTPS URLs, unique tool names, and README coverage on relevant changes and weekly.
