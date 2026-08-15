@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-14",
+  "last_reviewed": "2026-08-15",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -12,6 +12,7 @@
     {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement"},
     {"id": "tax-research-irs-services", "name": "Tax research and IRS services"},
     {"id": "tax-resolution-representation", "name": "Tax resolution and representation"},
+    {"id": "marketing-reviews-local-visibility", "name": "Marketing, reviews, and local visibility"},
     {"id": "ai-automation", "name": "AI and automation"},
     {"id": "security-firm-operations", "name": "Security and firm operations"}
   ],
@@ -39,6 +40,9 @@
     {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals"},
     {"name": "IRS Transcript Delivery System", "category": "tax-resolution-representation", "url": "https://www.irs.gov/tax-professionals/transcript-delivery-system-tds"},
     {"name": "PitBullTax", "category": "tax-resolution-representation", "url": "https://www.pitbulltax.com/"},
+    {"name": "Google Business Profile", "category": "marketing-reviews-local-visibility", "url": "https://www.google.com/business/"},
+    {"name": "Google Search Console", "category": "marketing-reviews-local-visibility", "url": "https://search.google.com/search-console/about"},
+    {"name": "Podium Reviews", "category": "marketing-reviews-local-visibility", "url": "https://www.podium.com/product/reviews"},
     {"name": "Workforce Wave", "category": "ai-automation", "url": "https://www.workforcewave.com/"},
     {"name": "Keeper", "category": "security-firm-operations", "url": "https://www.keepersecurity.com/en_GB/accountants-cybersecurity-guide.html"},
     {"name": "Practice Protect", "category": "security-firm-operations", "url": "https://practiceprotect.com/solutions/"},
