@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-14
+
+- Added tax-resolution and representation coverage: IRS Transcript Delivery System and PitBullTax.
+
 ## 2026-08-13
 
 - Added tax-research and IRS-services coverage: CCH AnswerConnect, Checkpoint Edge, and IRS Tax Pro Account.
