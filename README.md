@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-14 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-15 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -28,6 +28,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 - [Payments, billing, and engagement](#payments-billing-and-engagement)
 - [Tax research and IRS services](#tax-research-and-irs-services)
 - [Tax resolution and representation](#tax-resolution-and-representation)
+- [Marketing, reviews, and local visibility](#marketing-reviews-and-local-visibility)
 - [AI and automation](#ai-and-automation)
 - [Security and firm operations](#security-and-firm-operations)
 
@@ -74,6 +75,12 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 - [IRS Transcript Delivery System](https://www.irs.gov/tax-professionals/transcript-delivery-system-tds) — IRS e-Services application for eligible tax professionals to access client transcript information, subject to IRS credentials and authorization requirements.
 - [PitBullTax](https://www.pitbulltax.com/) — Tax-resolution case-management and workflow software for tax professionals.
+
+### Marketing, reviews, and local visibility
+
+- [Google Business Profile](https://www.google.com/business/) — Google service for managing a business profile that appears on Google Search, Maps, and other Google platforms.
+- [Google Search Console](https://search.google.com/search-console/about) — Google service with reports on a site’s visibility and clicks in Google Search.
+- [Podium Reviews](https://www.podium.com/product/reviews) — Review-management product with review invitations, response tools, and a consolidated review inbox.
 
 ### AI and automation
 
