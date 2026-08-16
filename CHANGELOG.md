@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-16
+
+- Updated the catalog-integrity workflow to current major versions of GitHub's checkout and setup-node actions after GitHub reported the prior action runtimes as deprecated.
+
 ## 2026-08-15
 
 - Added marketing, reviews, and local-visibility coverage: Google Business Profile, Google Search Console, and Podium Reviews.
