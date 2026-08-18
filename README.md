@@ -106,7 +106,7 @@ Use the vendor-neutral [tax-firm technology evaluation guide](guides/evaluating-
 
 ## Machine-readable catalog
 
-The curated categories and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
+The curated categories, workflow-stage metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
 
 ## About
 

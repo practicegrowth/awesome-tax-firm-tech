@@ -1,20 +1,20 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-15",
+  "last_reviewed": "2026-08-18",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
-    {"id": "tax-preparation-workflow", "name": "Tax preparation and workflow"},
-    {"id": "practice-management-client-portals", "name": "Practice management and client portals"},
-    {"id": "document-collection-esignature", "name": "Document collection and e-signature"},
-    {"id": "accounting-bookkeeping-advisory", "name": "Accounting, bookkeeping, and advisory"},
-    {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement"},
-    {"id": "tax-research-irs-services", "name": "Tax research and IRS services"},
-    {"id": "tax-resolution-representation", "name": "Tax resolution and representation"},
-    {"id": "marketing-reviews-local-visibility", "name": "Marketing, reviews, and local visibility"},
-    {"id": "ai-automation", "name": "AI and automation"},
-    {"id": "security-firm-operations", "name": "Security and firm operations"}
+    {"id": "tax-preparation-workflow", "name": "Tax preparation and workflow", "workflow_stages": ["return preparation", "review and filing"]},
+    {"id": "practice-management-client-portals", "name": "Practice management and client portals", "workflow_stages": ["client intake", "work coordination", "client service"]},
+    {"id": "document-collection-esignature", "name": "Document collection and e-signature", "workflow_stages": ["client intake", "document exchange", "signature and delivery"]},
+    {"id": "accounting-bookkeeping-advisory", "name": "Accounting, bookkeeping, and advisory", "workflow_stages": ["bookkeeping", "close", "advisory"]},
+    {"id": "payments-billing-engagement", "name": "Payments, billing, and engagement", "workflow_stages": ["proposal and engagement", "billing", "payment collection"]},
+    {"id": "tax-research-irs-services", "name": "Tax research and IRS services", "workflow_stages": ["tax research", "client authorization", "IRS interaction"]},
+    {"id": "tax-resolution-representation", "name": "Tax resolution and representation", "workflow_stages": ["case intake", "transcript review", "resolution case management"]},
+    {"id": "marketing-reviews-local-visibility", "name": "Marketing, reviews, and local visibility", "workflow_stages": ["local visibility", "website search measurement", "review management"]},
+    {"id": "ai-automation", "name": "AI and automation", "workflow_stages": ["lead response", "appointment scheduling", "workflow automation"]},
+    {"id": "security-firm-operations", "name": "Security and firm operations", "workflow_stages": ["identity and access", "application hosting", "firm operations"]}
   ],
   "tools": [
     {"name": "CCH Axcess Tax", "category": "tax-preparation-workflow", "url": "https://www.wolterskluwer.com/en/solutions/cch-axcess/tax"},

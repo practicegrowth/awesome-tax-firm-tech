@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-18
+
+- Upgraded the machine-readable catalog to schema 1.1 with maintained workflow-stage metadata for each category, and extended catalog integrity validation to enforce the new taxonomy field.
+
 ## 2026-08-16
 
 - Updated the catalog-integrity workflow to current major versions of GitHub's checkout and setup-node actions after GitHub reported the prior action runtimes as deprecated.
