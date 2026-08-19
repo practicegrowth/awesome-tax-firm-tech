@@ -5,7 +5,7 @@
 ## Scope and interpretation
 
 - `last_reviewed` is the date the catalog was last checked as a whole.
-- `categories` defines the stable category IDs used by each tool entry.
+- `categories` defines the stable category IDs used by each tool entry. Each category also includes `workflow_stages`: a maintained, descriptive set of firm workflow stages the category is intended to help readers navigate. These are taxonomy labels, not product capabilities, requirements, or recommendations.
 - Each item in `tools` contains a product or program name, exactly one category ID, and its official vendor or product URL.
 - The official URL is the primary source for the corresponding README entry; consumers should verify current product capabilities, pricing, integrations, and suitability with that source.
 

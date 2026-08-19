@@ -12,6 +12,13 @@ for (const category of catalog.categories ?? []) {
   if (!category.id || !category.name) failures.push("Every category needs id and name.");
   if (categoryIds.has(category.id)) failures.push(`Duplicate category id: ${category.id}`);
   categoryIds.add(category.id);
+  if (!Array.isArray(category.workflow_stages) || category.workflow_stages.length === 0) {
+    failures.push(`${category.id} needs at least one workflow stage.`);
+  } else if (new Set(category.workflow_stages).size !== category.workflow_stages.length) {
+    failures.push(`${category.id} has duplicate workflow stages.`);
+  } else if (category.workflow_stages.some((stage) => typeof stage !== "string" || !stage.trim())) {
+    failures.push(`${category.id} has an invalid workflow stage.`);
+  }
 }
 
 const names = new Set();
