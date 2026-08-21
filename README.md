@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-15 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-21 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -111,4 +111,3 @@ The curated categories, workflow-stage metadata, and official vendor URLs are al
 ## About
 
 Maintained by [PracticeGrowth.Tech](https://practicegrowth.tech/), a growth-systems partner for accounting, tax, bookkeeping, CPA, and financial practices.
-A curated reference for technology used by modern tax and CPA firms.

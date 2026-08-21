@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-21
+
+- Completed a catalog integrity and editorial consistency review; refreshed review metadata and removed a duplicate repository description.
+
 ## 2026-08-18
 
 - Upgraded the machine-readable catalog to schema 1.1 with maintained workflow-stage metadata for each category, and extended catalog integrity validation to enforce the new taxonomy field.
