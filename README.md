@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-21 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-22 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -51,6 +51,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 - [Liscio](https://www.liscio.me/) — Client-communication and file-intelligence platform for accounting and bookkeeping firms, with requests, secure messages, files, and e-signatures.
 - [SafeSend](https://safesend.com/) — Tax-workflow platform for accounting firms, including return assembly and delivery automation.
+- [SmartVault](https://www.smartvault.com/accountants/) — Cloud document-management and client-portal platform for accounting firms, with document collection, file sharing, and e-signatures.
 
 ### Accounting, bookkeeping, and advisory
 

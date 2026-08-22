@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-22
+
+- Added SmartVault to document collection and e-signature coverage, verified against SmartVault's accounting-firm product page.
+
 ## 2026-08-21
 
 - Completed a catalog integrity and editorial consistency review; refreshed review metadata and removed a duplicate repository description.
