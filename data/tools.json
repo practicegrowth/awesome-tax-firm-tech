@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-21",
+  "last_reviewed": "2026-08-22",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -28,6 +28,7 @@
     {"name": "TaxDome", "category": "practice-management-client-portals", "url": "https://taxdome.com/"},
     {"name": "Liscio", "category": "document-collection-esignature", "url": "https://www.liscio.me/"},
     {"name": "SafeSend", "category": "document-collection-esignature", "url": "https://safesend.com/"},
+    {"name": "SmartVault", "category": "document-collection-esignature", "url": "https://www.smartvault.com/accountants/"},
     {"name": "BILL", "category": "accounting-bookkeeping-advisory", "url": "https://www.bill.com/for-accountants"},
     {"name": "Dext", "category": "accounting-bookkeeping-advisory", "url": "https://dext.com/us"},
     {"name": "QuickBooks Online Accountant", "category": "accounting-bookkeeping-advisory", "url": "https://quickbooks.intuit.com/global/accountants-software/"},
