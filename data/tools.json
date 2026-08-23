@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-22",
+  "last_reviewed": "2026-08-23",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -31,7 +31,7 @@
     {"name": "SmartVault", "category": "document-collection-esignature", "url": "https://www.smartvault.com/accountants/"},
     {"name": "BILL", "category": "accounting-bookkeeping-advisory", "url": "https://www.bill.com/for-accountants"},
     {"name": "Dext", "category": "accounting-bookkeeping-advisory", "url": "https://dext.com/us"},
-    {"name": "QuickBooks Online Accountant", "category": "accounting-bookkeeping-advisory", "url": "https://quickbooks.intuit.com/global/accountants-software/"},
+    {"name": "Intuit Accountant Suite", "category": "accounting-bookkeeping-advisory", "url": "https://www.intuit.com/accountants/"},
     {"name": "Xero Partner Program", "category": "accounting-bookkeeping-advisory", "url": "https://www.xero.com/us/partner-programme/"},
     {"name": "CPACharge", "category": "payments-billing-engagement", "url": "https://www.cpacharge.com/features/payments/"},
     {"name": "Financial Cents", "category": "payments-billing-engagement", "url": "https://financial-cents.com/proposals/"},

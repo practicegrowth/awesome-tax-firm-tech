@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-22 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-23 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -57,7 +57,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 - [BILL](https://www.bill.com/for-accountants) — Accounts-payable and accounts-receivable automation platform for accounting firms, with an accountant console for managing client entities.
 - [Dext](https://dext.com/us) — Bookkeeping-automation platform for collecting, processing, and storing receipts, invoices, and business documents.
-- [QuickBooks Online Accountant](https://quickbooks.intuit.com/global/accountants-software/) — Intuit's cloud accounting platform for accounting professionals, with accountant tools and access to client QuickBooks Online books.
+- [Intuit Accountant Suite](https://www.intuit.com/accountants/) — Intuit's accountant-focused product hub, including QuickBooks accounting and bookkeeping products for client work.
 - [Xero Partner Program](https://www.xero.com/us/partner-programme/) — Partner program for accounting and bookkeeping practices using Xero products with clients.
 
 ### Payments, billing, and engagement
