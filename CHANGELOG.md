@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-24
+
+- Strengthened contribution guidance with explicit evidence requirements and claim boundaries for product descriptions.
+
 ## 2026-08-23
 
 - Replaced a timed-out QuickBooks Online Accountant link with Intuit's current accountant hub and updated the entry to reflect Intuit Accountant Suite coverage.
