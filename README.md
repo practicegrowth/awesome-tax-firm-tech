@@ -105,6 +105,8 @@ This repository is reviewed monthly for additions, corrections, and broken links
 
 Use the vendor-neutral [tax-firm technology evaluation guide](guides/evaluating-tax-firm-technology.md) to structure product comparisons, pilots, and decision records.
 
+For a bounded AI-enabled workflow, use the companion [AI automation pilot controls worksheet](guides/ai-automation-pilot-controls.md) to define scope, testing, human review, escalation, and an exit decision.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
