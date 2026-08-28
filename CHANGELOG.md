@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-08-28
+
+- Added TaxAct Professional to tax-preparation workflow coverage, verified against TaxAct's official professional product page.
+
 ## 2026-08-26
 
 - Added a source-grounded AI automation pilot-controls worksheet for defining a bounded use case, testing representative work, documenting human review and escalation, and recording an adopt/extend/stop decision.

@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-23 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-08-28 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -39,6 +39,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 - [Lacerte Tax](https://accountants.intuit.com/tax-software/lacerte/) — Intuit professional tax software for firms handling complex tax work, with diagnostics and workflow tools.
 - [ProConnect Tax](https://accountants.intuit.com/tax-software/tax-online/) — Intuit cloud-based professional tax software for preparing and collaborating on tax returns.
 - [Intuit ProSeries Tax](https://accountants.intuit.com/tax-software/proseries/) — Professional tax-preparation software from Intuit.
+- [TaxAct Professional](https://www.taxact.com/professional/) — Professional tax-preparation software from TaxAct for CPAs, enrolled agents, and tax preparers.
 - [UltraTax CS](https://tax.thomsonreuters.com/en/products/ultratax-cs) — Professional tax software from Thomson Reuters.
 
 ### Practice management and client portals

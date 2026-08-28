@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-08-23",
+  "last_reviewed": "2026-08-28",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -22,6 +22,7 @@
     {"name": "Lacerte Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/lacerte/"},
     {"name": "ProConnect Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/tax-online/"},
     {"name": "Intuit ProSeries Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/proseries/"},
+    {"name": "TaxAct Professional", "category": "tax-preparation-workflow", "url": "https://www.taxact.com/professional/"},
     {"name": "UltraTax CS", "category": "tax-preparation-workflow", "url": "https://tax.thomsonreuters.com/en/products/ultratax-cs"},
     {"name": "Canopy", "category": "practice-management-client-portals", "url": "https://www.getcanopy.com/"},
     {"name": "Karbon", "category": "practice-management-client-portals", "url": "https://karbonhq.com/"},
