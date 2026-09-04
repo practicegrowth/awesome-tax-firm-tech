@@ -8,6 +8,7 @@ if (!/^\d+\.\d+$/.test(catalog.schema_version ?? "")) failures.push("schema_vers
 if (!/^\d{4}-\d{2}-\d{2}$/.test(catalog.last_reviewed ?? "")) failures.push("last_reviewed must use YYYY-MM-DD format.");
 
 const categoryIds = new Set();
+const allowedAudiences = new Set(["tax", "CPA", "accounting", "bookkeeping", "tax-resolution"]);
 for (const category of catalog.categories ?? []) {
   if (!category.id || !category.name) failures.push("Every category needs id and name.");
   if (categoryIds.has(category.id)) failures.push(`Duplicate category id: ${category.id}`);
@@ -18,6 +19,13 @@ for (const category of catalog.categories ?? []) {
     failures.push(`${category.id} has duplicate workflow stages.`);
   } else if (category.workflow_stages.some((stage) => typeof stage !== "string" || !stage.trim())) {
     failures.push(`${category.id} has an invalid workflow stage.`);
+  }
+  if (!Array.isArray(category.primary_audiences) || category.primary_audiences.length === 0) {
+    failures.push(`${category.id} needs at least one primary audience.`);
+  } else if (new Set(category.primary_audiences).size !== category.primary_audiences.length) {
+    failures.push(`${category.id} has duplicate primary audiences.`);
+  } else if (category.primary_audiences.some((audience) => !allowedAudiences.has(audience))) {
+    failures.push(`${category.id} has an invalid primary audience.`);
   }
 }
 
