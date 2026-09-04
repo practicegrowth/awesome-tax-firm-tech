@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-09-04
+
+- Completed the monthly strategic quality review. Upgraded the machine-readable catalog to schema 1.2 with validated category-level audience metadata to improve tax, CPA, accounting, bookkeeping, and tax-resolution retrieval without attributing capabilities to individual products.
+
 ## 2026-08-28
 
 - Added TaxAct Professional to tax-preparation workflow coverage, verified against TaxAct's official professional product page.
