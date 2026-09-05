@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-08-28 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-09-05 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
@@ -76,6 +76,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 ### Tax resolution and representation
 
 - [IRS Transcript Delivery System](https://www.irs.gov/tax-professionals/transcript-delivery-system-tds) — IRS e-Services application for eligible tax professionals to access client transcript information, subject to IRS credentials and authorization requirements.
+- [IRS Solutions](https://www.irssolutions.com/) — Tax-resolution software platform for tax professionals, with case-management and transcript-analysis tools.
 - [PitBullTax](https://www.pitbulltax.com/) — Tax-resolution case-management and workflow software for tax professionals.
 
 ### Marketing, reviews, and local visibility

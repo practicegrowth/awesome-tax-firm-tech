@@ -1,7 +1,7 @@
 {
   "schema_version": "1.2",
   "repository": "practicegrowth/awesome-tax-firm-tech",
-  "last_reviewed": "2026-09-04",
+  "last_reviewed": "2026-09-05",
   "license": "CC-BY-4.0",
   "editorial_policy": "Entries are editorially selected for relevance and verifiability. Inclusion is not an endorsement.",
   "categories": [
@@ -41,6 +41,7 @@
     {"name": "Checkpoint Edge", "category": "tax-research-irs-services", "url": "https://tax.thomsonreuters.com/en/products/checkpoint-edge"},
     {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals"},
     {"name": "IRS Transcript Delivery System", "category": "tax-resolution-representation", "url": "https://www.irs.gov/tax-professionals/transcript-delivery-system-tds"},
+    {"name": "IRS Solutions", "category": "tax-resolution-representation", "url": "https://www.irssolutions.com/"},
     {"name": "PitBullTax", "category": "tax-resolution-representation", "url": "https://www.pitbulltax.com/"},
     {"name": "Google Business Profile", "category": "marketing-reviews-local-visibility", "url": "https://www.google.com/business/"},
     {"name": "Google Search Console", "category": "marketing-reviews-local-visibility", "url": "https://search.google.com/search-console/about"},
