@@ -109,6 +109,8 @@ Use the vendor-neutral [tax-firm technology evaluation guide](guides/evaluating-
 
 For a bounded AI-enabled workflow, use the companion [AI automation pilot controls worksheet](guides/ai-automation-pilot-controls.md) to define scope, testing, human review, escalation, and an exit decision.
 
+For tax-resolution workflows, use the vendor-neutral [tax-resolution technology evaluation guide](guides/evaluating-tax-resolution-technology.md) to separate vendor claims from IRS authorization and practitioner-review responsibilities.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
