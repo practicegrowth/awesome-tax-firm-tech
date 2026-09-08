@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-09-08
+
+- Added a source-grounded guide for evaluating tax-resolution technology, with prompts for authorization, IRS access, case handoffs, vendor evidence, and bounded pilots.
+
 ## 2026-09-05
 
 - Added IRS Solutions to tax-resolution and representation coverage, verified against its official product page.
