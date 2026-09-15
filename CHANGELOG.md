@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-09-15
+
+- Added a source-grounded worksheet for measuring local and search visibility, including Search Console evidence, public-information checks, and reporting boundaries.
+
 ## 2026-09-13
 
 - Updated the Intuit Accountant Suite entry to its current direct official product page after the prior broad accountant hub returned a temporary server error during link review.
