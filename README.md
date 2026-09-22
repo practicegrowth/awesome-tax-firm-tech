@@ -113,6 +113,8 @@ For tax-resolution workflows, use the vendor-neutral [tax-resolution technology 
 
 For local visibility and website measurement, use the vendor-neutral [local and search visibility worksheet](guides/measuring-local-and-search-visibility.md) to record Search Console evidence, public-information checks, and change decisions without implying an outcome.
 
+For tools and providers that affect taxpayer-information access, use the vendor-neutral [security and firm-operations technology evaluation worksheet](guides/evaluating-security-and-firm-operations-technology.md) to document the workflow, firm responsibilities, provider evidence, and a bounded pilot decision.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
