@@ -2,6 +2,14 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-09-29
+
+- Added concise and expanded LLM discovery indexes that direct AI-assisted retrieval to the canonical structured catalog, evaluation guides, disclosures, and maintenance records without adding product claims.
+
+## 2026-09-22
+
+- Added a source-grounded worksheet for evaluating security and firm-operations technology, including workflow mapping, provider oversight, bounded testing, and decision records.
+
 ## 2026-09-15
 
 - Added a source-grounded worksheet for measuring local and search visibility, including Search Console evidence, public-information checks, and reporting boundaries.

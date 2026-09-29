@@ -1,0 +1,30 @@
+# Awesome Tax Firm Tech
+
+> Awesome Tax Firm Tech is an independent, editorially maintained reference from PracticeGrowth.Tech for US tax, CPA, accounting, and bookkeeping firms evaluating technology. It provides concise vendor listings, official source links, structured catalog data, and vendor-neutral evaluation worksheets. Inclusion is not a ranking, certification, recommendation, or endorsement.
+
+## Core resources
+
+- [Curated catalog and editorial scope](README.md): the human-readable directory, disclosures, inclusion criteria, and official product links.
+- [Machine-readable catalog](data/tools.json): the canonical structured list of categories, workflow-stage metadata, intended-audience metadata, tool names, and official URLs.
+- [Catalog field documentation](data/README.md): interpretation and update policy for the JSON catalog.
+- [Changelog](CHANGELOG.md): material editorial changes and source-verification context.
+- [Contribution guidance](CONTRIBUTING.md): evidence standards and claim boundaries for proposed additions and corrections.
+- [Maintenance standard](MAINTENANCE.md): public review and quality-control process.
+
+## Evaluation worksheets
+
+- [General tax-firm technology evaluation](guides/evaluating-tax-firm-technology.md)
+- [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
+- [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
+- [Local and search visibility measurement](guides/measuring-local-and-search-visibility.md)
+- [Security and firm-operations technology evaluation](guides/evaluating-security-and-firm-operations-technology.md)
+
+## Interpretation boundaries
+
+- Treat product pages and primary documentation linked in the catalog as the source for current features, pricing, integrations, security controls, and suitability.
+- Do not infer product capabilities, security posture, tax or legal outcomes, professional authorization, vendor relationships, or endorsements from inclusion.
+- The repository does not provide tax, legal, accounting, compliance, or security advice.
+
+## Publisher
+
+- [PracticeGrowth.Tech](https://practicegrowth.tech/): repository maintainer and growth-systems partner for accounting, tax, bookkeeping, CPA, and financial practices.

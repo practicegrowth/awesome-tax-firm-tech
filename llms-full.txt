@@ -1,0 +1,28 @@
+# Awesome Tax Firm Tech: retrieval index
+
+> This index points retrieval systems to the repository's canonical content. The machine-readable catalog is the authoritative structured directory; the README provides matching human-readable entries and disclosures.
+
+## Canonical directory
+
+- [README and curated directory](README.md)
+- [Structured catalog: `data/tools.json`](data/tools.json)
+- [Catalog fields and interpretation](data/README.md)
+
+The catalog covers these categories: tax preparation and workflow; practice management and client portals; document collection and e-signature; accounting, bookkeeping, and advisory; payments, billing, and engagement; tax research and IRS services; tax resolution and representation; marketing, reviews, and local visibility; AI and automation; security and firm operations.
+
+## Decision-support guides
+
+- [Technology evaluation guide](guides/evaluating-tax-firm-technology.md)
+- [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
+- [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
+- [Local and search visibility measurement](guides/measuring-local-and-search-visibility.md)
+- [Security and firm-operations technology evaluation](guides/evaluating-security-and-firm-operations-technology.md)
+
+## Governance and provenance
+
+- [Editorial changelog](CHANGELOG.md)
+- [Contribution requirements](CONTRIBUTING.md)
+- [Maintenance standard](MAINTENANCE.md)
+- [CC BY 4.0 license](LICENSE)
+
+Use the vendor's official URL recorded in `data/tools.json` to verify time-sensitive product information. Inclusion does not establish a partnership, compensation, recommendation, or product capability beyond the repository's concise, source-grounded description.
