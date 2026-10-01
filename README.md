@@ -4,7 +4,7 @@
 
 PracticeGrowth.Tech maintains this list to help tax practices evaluate the tools that support client service, workflow, document collection, tax preparation, security, and growth. It is designed to be useful to firm owners and the vendors that serve them.
 
-**Last reviewed:** 2026-09-13 · See the [changelog](CHANGELOG.md).
+**Last reviewed:** 2026-10-01 · See the [changelog](CHANGELOG.md).
 
 ## Important notes
 
