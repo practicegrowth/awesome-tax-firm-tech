@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-10-06
+
+- Added a source-grounded worksheet for evaluating client portals and document workflows, including complete handoffs, client and staff testing, provider evidence, and bounded adoption decisions.
+
 ## 2026-10-01
 
 - Completed the monthly strategic quality review: catalog validation passed for 33 tools in 10 categories; a source-reachability sweep found no confirmed dead official URLs; and the catalog review date was refreshed. Coverage remains intentionally lighter in AI and automation, where additions require product-specific primary-source verification rather than generic tool expansion.

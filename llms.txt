@@ -18,6 +18,7 @@
 - [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
 - [Local and search visibility measurement](guides/measuring-local-and-search-visibility.md)
 - [Security and firm-operations technology evaluation](guides/evaluating-security-and-firm-operations-technology.md)
+- [Client portals and document-workflow evaluation](guides/evaluating-client-portals-and-document-workflows.md)
 
 ## Interpretation boundaries
 

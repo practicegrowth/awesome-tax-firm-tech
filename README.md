@@ -115,6 +115,8 @@ For local visibility and website measurement, use the vendor-neutral [local and 
 
 For tools and providers that affect taxpayer-information access, use the vendor-neutral [security and firm-operations technology evaluation worksheet](guides/evaluating-security-and-firm-operations-technology.md) to document the workflow, firm responsibilities, provider evidence, and a bounded pilot decision.
 
+For client portals, document collection, and related handoffs, use the vendor-neutral [client portal and document-workflow evaluation worksheet](guides/evaluating-client-portals-and-document-workflows.md) to test the client journey, staff ownership, provider evidence, and a bounded adoption decision.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
