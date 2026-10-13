@@ -117,6 +117,8 @@ For tools and providers that affect taxpayer-information access, use the vendor-
 
 For client portals, document collection, and related handoffs, use the vendor-neutral [client portal and document-workflow evaluation worksheet](guides/evaluating-client-portals-and-document-workflows.md) to test the client journey, staff ownership, provider evidence, and a bounded adoption decision.
 
+For proposals, engagement letters, billing, and payment requests, use the vendor-neutral [engagement and billing workflow evaluation worksheet](guides/evaluating-engagement-and-billing-workflows.md) to document scope handoffs, approval records, provider evidence, exceptions, and a bounded adoption decision.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
