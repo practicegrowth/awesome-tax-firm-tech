@@ -19,6 +19,7 @@ The catalog covers these categories: tax preparation and workflow; practice mana
 - [Security and firm-operations technology evaluation](guides/evaluating-security-and-firm-operations-technology.md)
 - [Client portals and document-workflow evaluation](guides/evaluating-client-portals-and-document-workflows.md)
 - [Engagement and billing workflow evaluation](guides/evaluating-engagement-and-billing-workflows.md)
+- [IRS-connected workflow evaluation](guides/evaluating-irs-connected-workflows.md)
 
 ## Governance and provenance
 
