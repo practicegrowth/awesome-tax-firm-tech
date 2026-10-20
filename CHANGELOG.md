@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-10-20
+
+- Added a source-grounded worksheet for evaluating IRS-connected workflows, separating official IRS actions from supporting technology and covering authorization handoffs, provider evidence, taxpayer-data controls, and bounded adoption decisions.
+
 ## 2026-10-13
 
 - Added a source-grounded worksheet for evaluating engagement and billing workflows, including scope handoffs, approvals, exceptions, provider evidence, and bounded adoption decisions.

@@ -119,6 +119,8 @@ For client portals, document collection, and related handoffs, use the vendor-ne
 
 For proposals, engagement letters, billing, and payment requests, use the vendor-neutral [engagement and billing workflow evaluation worksheet](guides/evaluating-engagement-and-billing-workflows.md) to document scope handoffs, approval records, provider evidence, exceptions, and a bounded adoption decision.
 
+For technology supporting IRS authorizations, transcripts, notices, payments, or account information, use the vendor-neutral [IRS-connected workflow evaluation worksheet](guides/evaluating-irs-connected-workflows.md) to separate official IRS actions from supporting technology, document handoffs, require provider evidence, and record a bounded adoption decision.
+
 ## Machine-readable catalog
 
 The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
