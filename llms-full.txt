@@ -12,6 +12,7 @@ The catalog covers these categories: tax preparation and workflow; practice mana
 
 ## Decision-support guides
 
+- [Evaluation worksheet index](guides/README.md)
 - [Technology evaluation guide](guides/evaluating-tax-firm-technology.md)
 - [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
 - [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
