@@ -13,6 +13,7 @@
 
 ## Evaluation worksheets
 
+- [Evaluation worksheet index](guides/README.md)
 - [General tax-firm technology evaluation](guides/evaluating-tax-firm-technology.md)
 - [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
 - [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
