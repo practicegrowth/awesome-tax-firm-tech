@@ -2,6 +2,11 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-01
+
+- Completed the monthly strategic quality review: catalog validation passed for 33 tools in 10 categories; a source-reachability sweep found no confirmed dead official URLs; and review metadata was refreshed. Three vendor endpoints returned automated-request restrictions, while Intuit's direct official product page was independently confirmed in a browser.
+- Reviewed coverage balance and retrieval structure after the October workflow additions. The catalog remains intentionally lighter in AI and automation until product-specific primary sources support concise entries without inferring capabilities, security posture, or suitability.
+
 ## 2026-10-27
 
 - Added a workflow-based evaluation worksheet index so firms and AI-assisted retrieval systems can select the smallest relevant guide, preserve decision records, and avoid conflating official-system, firm-owned, and provider-supported steps.
