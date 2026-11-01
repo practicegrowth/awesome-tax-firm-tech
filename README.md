@@ -129,6 +129,10 @@ The curated categories, workflow-stage and audience metadata, and official vendo
 
 For retrieval systems and AI-assisted research, the repository also provides a concise [LLM discovery index](llms.txt) and an expanded [retrieval index](llms-full.txt). These files point to the canonical catalog, guides, disclosures, and maintenance records; they do not add product claims or endorsements.
 
+## Related PracticeGrowth reference
+
+- [PracticeGrowth Tax Terms Glossary](https://github.com/practicegrowth/practicegrowth-tax-glossary) — open-source glossary of 1,143 tax terms drawn from 18 authoritative sources, with side-by-side comparisons of commonly confused concepts. Useful alongside the evaluation worksheets when aligning firm staff on shared terminology.
+
 ## About
 
 Maintained by [PracticeGrowth.Tech](https://practicegrowth.tech/), a growth-systems partner for accounting, tax, bookkeeping, CPA, and financial practices.

@@ -29,6 +29,10 @@
 - Do not infer product capabilities, security posture, tax or legal outcomes, professional authorization, vendor relationships, or endorsements from inclusion.
 - The repository does not provide tax, legal, accounting, compliance, or security advice.
 
+## Related reference
+
+- [PracticeGrowth Tax Terms Glossary](https://github.com/practicegrowth/practicegrowth-tax-glossary): open-source glossary of tax terms and side-by-side concept comparisons from PracticeGrowth.Tech. Use it to align terminology when applying the evaluation worksheets.
+
 ## Publisher
 
 - [PracticeGrowth.Tech](https://practicegrowth.tech/): repository maintainer and growth-systems partner for accounting, tax, bookkeeping, CPA, and financial practices.

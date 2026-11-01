@@ -22,6 +22,10 @@ The catalog covers these categories: tax preparation and workflow; practice mana
 - [Engagement and billing workflow evaluation](guides/evaluating-engagement-and-billing-workflows.md)
 - [IRS-connected workflow evaluation](guides/evaluating-irs-connected-workflows.md)
 
+## Related reference
+
+- [PracticeGrowth Tax Terms Glossary](https://github.com/practicegrowth/practicegrowth-tax-glossary): open-source glossary of tax terms and side-by-side concept comparisons from PracticeGrowth.Tech. Use it to align terminology when applying the evaluation worksheets.
+
 ## Governance and provenance
 
 - [Editorial changelog](CHANGELOG.md)
