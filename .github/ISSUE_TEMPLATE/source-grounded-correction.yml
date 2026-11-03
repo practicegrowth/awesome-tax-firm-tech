@@ -1,0 +1,62 @@
+name: Source-grounded catalog correction or addition
+description: Report an inaccurate entry, broken official link, product change, or proposed addition with primary-source evidence.
+title: "[Catalog] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping keep this reference accurate. Please use current vendor or other primary documentation. This repository does not infer pricing, integrations, security posture, compliance, outcomes, or product suitability from general marketing claims.
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      options:
+        - Correct an existing entry
+        - Report a broken or redirected official URL
+        - Report a rename, retirement, or material product change
+        - Propose a new entry
+    validations:
+      required: true
+  - type: input
+    id: product_name
+    attributes:
+      label: Product or service name
+      placeholder: Exact current product name
+    validations:
+      required: true
+  - type: input
+    id: existing_url
+    attributes:
+      label: Current catalog URL, if applicable
+      placeholder: https://github.com/practicegrowth/awesome-tax-firm-tech/blob/main/README.md
+  - type: input
+    id: primary_source_url
+    attributes:
+      label: Primary-source URL
+      description: Use the vendor's current product page, official documentation, or other first-party source that supports the proposed change.
+      placeholder: https://example.com/product
+    validations:
+      required: true
+  - type: textarea
+    id: observed_change
+    attributes:
+      label: What should change?
+      description: State the narrow, factual correction or proposed one-sentence description. Include the relevant page text in your own words; do not rely on an unsupported conclusion.
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Evidence limits or material context
+      description: Note any uncertainty, plan-tier limitation, regional availability, upcoming/retired status, or material relationship that the editorial review should consider.
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Submission checks
+      options:
+        - label: I checked that the product is not already listed under another name or category.
+          required: true
+        - label: I understand that inclusion is editorially independent and does not establish an endorsement, partnership, or ranking.
+          required: true

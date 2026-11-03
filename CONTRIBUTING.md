@@ -23,6 +23,8 @@ When an exact claim cannot be verified, use a narrower description of the produc
 
 ## Submissions
 
+Use the repository's **Source-grounded catalog correction or addition** issue form for corrections, broken official links, product changes, and proposed entries. It captures the primary-source URL and claim limits needed for review.
+
 Open an issue or pull request with:
 
 - product name;
