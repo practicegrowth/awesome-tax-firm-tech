@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guidance
+    url: https://github.com/practicegrowth/awesome-tax-firm-tech/blob/main/CONTRIBUTING.md
+    about: Review the primary-source evidence and disclosure requirements before submitting.

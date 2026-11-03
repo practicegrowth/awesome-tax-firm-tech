@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-03
+
+- Added a structured source-grounded issue form for catalog corrections, broken official links, product changes, and proposed entries. The form captures primary evidence, claim limits, and disclosure context before editorial review.
+
 ## 2026-11-01
 
 - Completed the monthly strategic quality review: catalog validation passed for 33 tools in 10 categories; a source-reachability sweep found no confirmed dead official URLs; and review metadata was refreshed. Three vendor endpoints returned automated-request restrictions, while Intuit's direct official product page was independently confirmed in a browser.
