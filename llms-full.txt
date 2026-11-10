@@ -17,6 +17,7 @@ The catalog covers these categories: tax preparation and workflow; practice mana
 - [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
 - [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
 - [Local and search visibility measurement](guides/measuring-local-and-search-visibility.md)
+- [Reputation and review workflow evaluation](guides/evaluating-reputation-and-review-workflows.md)
 - [Security and firm-operations technology evaluation](guides/evaluating-security-and-firm-operations-technology.md)
 - [Client portals and document-workflow evaluation](guides/evaluating-client-portals-and-document-workflows.md)
 - [Engagement and billing workflow evaluation](guides/evaluating-engagement-and-billing-workflows.md)

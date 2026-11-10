@@ -115,6 +115,8 @@ For tax-resolution workflows, use the vendor-neutral [tax-resolution technology 
 
 For local visibility and website measurement, use the vendor-neutral [local and search visibility worksheet](guides/measuring-local-and-search-visibility.md) to record Search Console evidence, public-information checks, and change decisions without implying an outcome.
 
+For review requests, monitoring, and public-response workflows, use the vendor-neutral [reputation and review workflow evaluation worksheet](guides/evaluating-reputation-and-review-workflows.md) to define eligibility, platform-policy checks, confidentiality controls, escalation, and a bounded adoption decision.
+
 For tools and providers that affect taxpayer-information access, use the vendor-neutral [security and firm-operations technology evaluation worksheet](guides/evaluating-security-and-firm-operations-technology.md) to document the workflow, firm responsibilities, provider evidence, and a bounded pilot decision.
 
 For client portals, document collection, and related handoffs, use the vendor-neutral [client portal and document-workflow evaluation worksheet](guides/evaluating-client-portals-and-document-workflows.md) to test the client journey, staff ownership, provider evidence, and a bounded adoption decision.
