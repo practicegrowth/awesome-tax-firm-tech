@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-10
+
+- Added a source-grounded worksheet for evaluating reputation and review workflows, covering consistent eligibility, platform-policy checks, confidentiality controls, escalation, and bounded adoption decisions without promising marketing outcomes.
+
 ## 2026-11-03
 
 - Added a structured source-grounded issue form for catalog corrections, broken official links, product changes, and proposed entries. The form captures primary evidence, claim limits, and disclosure context before editorial review.

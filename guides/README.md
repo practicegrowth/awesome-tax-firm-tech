@@ -14,6 +14,7 @@ These vendor-neutral worksheets help tax, CPA, accounting, bookkeeping, and tax-
 | A proposal, engagement letter, invoice, payment request, or billing handoff | [Engagement and billing workflow evaluation](evaluating-engagement-and-billing-workflows.md) | [Client portals and document workflows](evaluating-client-portals-and-document-workflows.md) for document collection. |
 | Account access, taxpayer-data handling, staff roles, or vendor operational controls | [Security and firm-operations technology evaluation](evaluating-security-and-firm-operations-technology.md) | The workflow-specific worksheet that triggered the review. |
 | Google Business Profile, search visibility, or website-measurement changes | [Local and search visibility measurement](measuring-local-and-search-visibility.md) | The general evaluation worksheet if a new platform is being considered. |
+| A review-request, review-monitoring, response, or reputation workflow | [Reputation and review workflow evaluation](evaluating-reputation-and-review-workflows.md) | [Local and search visibility measurement](measuring-local-and-search-visibility.md) for public-information and Search evidence. |
 
 ## Use the same decision record every time
 
