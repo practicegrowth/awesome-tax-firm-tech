@@ -7,6 +7,7 @@ These vendor-neutral worksheets help tax, CPA, accounting, bookkeeping, and tax-
 | If the decision primarily concerns... | Start here | Then consider |
 | --- | --- | --- |
 | A broad product shortlist, pilot, or renewal | [General tax-firm technology evaluation](evaluating-tax-firm-technology.md) | The workflow-specific worksheet below. |
+| Tax preparation, review, return delivery, e-file, acknowledgement, or correction workflow | [Tax-preparation and e-file workflow evaluation](evaluating-tax-preparation-and-e-file-workflows.md) | [Security and firm-operations](evaluating-security-and-firm-operations-technology.md) when taxpayer data or access is involved. |
 | An AI-enabled firm workflow | [AI automation pilot controls](ai-automation-pilot-controls.md) | [Security and firm-operations](evaluating-security-and-firm-operations-technology.md) when taxpayer data or access is involved. |
 | Tax resolution, transcript review, authorization, notice work, or case management | [Tax-resolution technology evaluation](evaluating-tax-resolution-technology.md) | [IRS-connected workflows](evaluating-irs-connected-workflows.md) for the IRS-facing handoff. |
 | An IRS authorization, transcript, notice, payment, or tax-account-information workflow | [IRS-connected workflow evaluation](evaluating-irs-connected-workflows.md) | [Security and firm-operations](evaluating-security-and-firm-operations-technology.md). |

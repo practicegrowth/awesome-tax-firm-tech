@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-16
+
+- Added a source-grounded worksheet for evaluating tax-preparation and e-file workflows, separating firm processes, provider evidence, official IRS requirements, exception testing, and bounded adoption decisions.
+
 ## 2026-11-10
 
 - Added a source-grounded worksheet for evaluating reputation and review workflows, covering consistent eligibility, platform-policy checks, confidentiality controls, escalation, and bounded adoption decisions without promising marketing outcomes.
