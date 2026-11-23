@@ -5,7 +5,7 @@
 ## Core resources
 
 - [Curated catalog and editorial scope](README.md): the human-readable directory, disclosures, inclusion criteria, and official product links.
-- [Machine-readable catalog](data/tools.json): the canonical structured list of categories, workflow-stage metadata, intended-audience metadata, tool names, and official URLs.
+- [Machine-readable catalog](data/tools.json): the canonical structured list of categories, workflow-stage metadata, intended-audience metadata, category-level worksheet routing, tool names, and official URLs.
 - [Catalog field documentation](data/README.md): interpretation and update policy for the JSON catalog.
 - [Changelog](CHANGELOG.md): material editorial changes and source-verification context.
 - [Contribution guidance](CONTRIBUTING.md): evidence standards and claim boundaries for proposed additions and corrections.

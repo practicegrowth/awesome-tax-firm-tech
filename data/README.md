@@ -5,7 +5,7 @@
 ## Scope and interpretation
 
 - `last_reviewed` is the date the catalog was last checked as a whole.
-- `categories` defines the stable category IDs used by each tool entry. Each category also includes `workflow_stages` and `primary_audiences`: maintained, descriptive navigation labels for firm workflow stages and intended audience contexts. They are taxonomy labels, not product capabilities, requirements, or recommendations.
+- `categories` defines the stable category IDs used by each tool entry. Each category also includes `workflow_stages`, `primary_audiences`, and `evaluation_guides`: maintained, descriptive navigation labels for firm workflow stages and intended audience contexts, plus repository-relative paths to the vendor-neutral worksheets most relevant to that category. They are taxonomy and navigation labels, not product capabilities, requirements, or recommendations.
 - Each item in `tools` contains a product or program name, exactly one category ID, and its official vendor or product URL.
 - The official URL is the primary source for the corresponding README entry; consumers should verify current product capabilities, pricing, integrations, and suitability with that source.
 
@@ -15,4 +15,4 @@ The catalog intentionally does not assign rankings, scores, security certificati
 
 The catalog is updated in the same commit as a README addition, removal, or category change. Consumers should use the repository history and [changelog](../CHANGELOG.md) to inspect material changes.
 
-Catalog structure and README coverage are automatically checked on pull requests, qualifying updates to `main`, and weekly through the repository's **Catalog integrity** workflow. The check verifies JSON structure, category references, unique tool names, HTTPS URLs, and that every catalog entry also appears in the README. It does not certify that a vendor page is available, current, secure, or suitable for a firm's use.
+Catalog structure and README coverage are automatically checked on pull requests, qualifying updates to `main`, and weekly through the repository's **Catalog integrity** workflow. The check verifies JSON structure, category references, taxonomy labels, guide-path existence, unique tool names, HTTPS URLs, and that every catalog entry also appears in the README. It does not certify that a vendor page is available, current, secure, or suitable for a firm's use.
