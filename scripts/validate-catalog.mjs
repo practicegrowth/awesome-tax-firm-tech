@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs";
+import { existsSync } from "node:fs";
 
 const catalog = JSON.parse(readFileSync("data/tools.json", "utf8"));
 const readme = readFileSync("README.md", "utf8");
@@ -26,6 +27,13 @@ for (const category of catalog.categories ?? []) {
     failures.push(`${category.id} has duplicate primary audiences.`);
   } else if (category.primary_audiences.some((audience) => !allowedAudiences.has(audience))) {
     failures.push(`${category.id} has an invalid primary audience.`);
+  }
+  if (!Array.isArray(category.evaluation_guides) || category.evaluation_guides.length === 0) {
+    failures.push(`${category.id} needs at least one evaluation guide.`);
+  } else if (new Set(category.evaluation_guides).size !== category.evaluation_guides.length) {
+    failures.push(`${category.id} has duplicate evaluation guides.`);
+  } else if (category.evaluation_guides.some((guide) => typeof guide !== "string" || !guide.startsWith("guides/") || !guide.endsWith(".md") || !existsSync(guide))) {
+    failures.push(`${category.id} has an invalid or missing evaluation guide.`);
   }
 }
 

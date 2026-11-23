@@ -129,7 +129,7 @@ For technology supporting IRS authorizations, transcripts, notices, payments, or
 
 ## Machine-readable catalog
 
-The curated categories, workflow-stage and audience metadata, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
+The curated categories, workflow-stage and audience metadata, category-level evaluation-guide routing, and official vendor URLs are also available as [JSON](data/tools.json), with [field documentation](data/README.md), for research, integrations, and AI-assisted use. The JSON catalog follows the same editorial and disclosure standards as this README.
 
 For retrieval systems and AI-assisted research, the repository also provides a concise [LLM discovery index](llms.txt) and an expanded [retrieval index](llms-full.txt). These files point to the canonical catalog, guides, disclosures, and maintenance records; they do not add product claims or endorsements.
 

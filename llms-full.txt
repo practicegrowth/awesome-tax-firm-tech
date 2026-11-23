@@ -8,7 +8,7 @@
 - [Structured catalog: `data/tools.json`](data/tools.json)
 - [Catalog fields and interpretation](data/README.md)
 
-The catalog covers these categories: tax preparation and workflow; practice management and client portals; document collection and e-signature; accounting, bookkeeping, and advisory; payments, billing, and engagement; tax research and IRS services; tax resolution and representation; marketing, reviews, and local visibility; AI and automation; security and firm operations.
+The catalog covers these categories: tax preparation and workflow; practice management and client portals; document collection and e-signature; accounting, bookkeeping, and advisory; payments, billing, and engagement; tax research and IRS services; tax resolution and representation; marketing, reviews, and local visibility; AI and automation; security and firm operations. Each category includes repository-relative routing to its most relevant vendor-neutral evaluation worksheets.
 
 ## Decision-support guides
 
