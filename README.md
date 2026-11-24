@@ -111,6 +111,8 @@ Use the [evaluation worksheet index](guides/README.md) to select the smallest re
 
 For tax preparation, review, return delivery, electronic filing, acknowledgements, and corrections, use the vendor-neutral [tax-preparation and e-file workflow evaluation worksheet](guides/evaluating-tax-preparation-and-e-file-workflows.md) to separate firm processes, provider evidence, and official IRS requirements.
 
+For source-document intake, transaction processing, close, reporting, or advisory handoffs, use the vendor-neutral [accounting, bookkeeping, and advisory workflow evaluation worksheet](guides/evaluating-accounting-and-bookkeeping-workflows.md) to map scope, test end-to-end handoffs, retain provider evidence, and record a bounded decision.
+
 For a bounded AI-enabled workflow, use the companion [AI automation pilot controls worksheet](guides/ai-automation-pilot-controls.md) to define scope, testing, human review, escalation, and an exit decision.
 
 For tax-resolution workflows, use the vendor-neutral [tax-resolution technology evaluation guide](guides/evaluating-tax-resolution-technology.md) to separate vendor claims from IRS authorization and practitioner-review responsibilities.

@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-24
+
+- Added a source-grounded worksheet for evaluating accounting, bookkeeping, and advisory workflows, including scope boundaries, end-to-end handoff tests, provider evidence, client-data considerations, and bounded decisions.
+
 ## 2026-11-23
 
 - Upgraded the machine-readable catalog to schema 1.3 with validated category-level evaluation-guide routing, helping firms and AI-assisted retrieval systems move from a category to the most relevant vendor-neutral worksheet without inferring product capabilities.

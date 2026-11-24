@@ -16,6 +16,7 @@
 - [Evaluation worksheet index](guides/README.md)
 - [General tax-firm technology evaluation](guides/evaluating-tax-firm-technology.md)
 - [Tax-preparation and e-file workflow evaluation](guides/evaluating-tax-preparation-and-e-file-workflows.md)
+- [Accounting, bookkeeping, and advisory workflow evaluation](guides/evaluating-accounting-and-bookkeeping-workflows.md)
 - [AI automation pilot controls](guides/ai-automation-pilot-controls.md)
 - [Tax-resolution technology evaluation](guides/evaluating-tax-resolution-technology.md)
 - [Local and search visibility measurement](guides/measuring-local-and-search-visibility.md)
