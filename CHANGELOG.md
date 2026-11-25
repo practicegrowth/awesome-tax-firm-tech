@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-25
+
+- Added Drake Tax Online as a distinct web-based professional tax-preparation platform, verified against Drake Software's product page and its current product overview.
+
 ## 2026-11-24
 
 - Added a source-grounded worksheet for evaluating accounting, bookkeeping, and advisory workflows, including scope boundaries, end-to-end handoff tests, provider evidence, client-data considerations, and bounded decisions.
