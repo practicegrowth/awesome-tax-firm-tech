@@ -36,6 +36,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 - [CCH Axcess Tax](https://www.wolterskluwer.com/en/solutions/cch-axcess/tax) — Cloud tax software from Wolters Kluwer for professional tax preparation.
 - [Drake Tax](https://www.drakesoftware.com/products/drake-tax/) — Professional tax-preparation software from Drake Software.
+- [Drake Tax Online](https://www.drakesoftware.com/products/drake-tax-online/) — Drake Software's web-based professional tax-preparation platform.
 - [Lacerte Tax](https://accountants.intuit.com/tax-software/lacerte/) — Intuit professional tax software for firms handling complex tax work, with diagnostics and workflow tools.
 - [ProConnect Tax](https://accountants.intuit.com/tax-software/tax-online/) — Intuit cloud-based professional tax software for preparing and collaborating on tax returns.
 - [Intuit ProSeries Tax](https://accountants.intuit.com/tax-software/proseries/) — Professional tax-preparation software from Intuit.

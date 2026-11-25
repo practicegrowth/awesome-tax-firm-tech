@@ -19,6 +19,7 @@
   "tools": [
     {"name": "CCH Axcess Tax", "category": "tax-preparation-workflow", "url": "https://www.wolterskluwer.com/en/solutions/cch-axcess/tax"},
     {"name": "Drake Tax", "category": "tax-preparation-workflow", "url": "https://www.drakesoftware.com/products/drake-tax/"},
+    {"name": "Drake Tax Online", "category": "tax-preparation-workflow", "url": "https://www.drakesoftware.com/products/drake-tax-online/"},
     {"name": "Lacerte Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/lacerte/"},
     {"name": "ProConnect Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/tax-online/"},
     {"name": "Intuit ProSeries Tax", "category": "tax-preparation-workflow", "url": "https://accountants.intuit.com/tax-software/proseries/"},
