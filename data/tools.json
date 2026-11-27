@@ -40,7 +40,7 @@
     {"name": "Ignition", "category": "payments-billing-engagement", "url": "https://www.ignitionapp.com/cpas"},
     {"name": "CCH AnswerConnect", "category": "tax-research-irs-services", "url": "https://www.wolterskluwer.com/en/solutions/cch-answerconnect-us/tax-research"},
     {"name": "Checkpoint Edge", "category": "tax-research-irs-services", "url": "https://tax.thomsonreuters.com/en/products/checkpoint-edge"},
-    {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals"},
+    {"name": "IRS Tax Pro Account", "category": "tax-research-irs-services", "url": "https://www.irs.gov/tax-professionals/tax-pro-account"},
     {"name": "IRS Transcript Delivery System", "category": "tax-resolution-representation", "url": "https://www.irs.gov/tax-professionals/transcript-delivery-system-tds"},
     {"name": "IRS Solutions", "category": "tax-resolution-representation", "url": "https://www.irssolutions.com/"},
     {"name": "PitBullTax", "category": "tax-resolution-representation", "url": "https://www.pitbulltax.com/"},

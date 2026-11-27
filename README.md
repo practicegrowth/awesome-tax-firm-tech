@@ -72,7 +72,7 @@ We do not add tools solely because they are submitted, affiliate programs, gener
 
 - [CCH AnswerConnect](https://www.wolterskluwer.com/en/solutions/cch-answerconnect-us/tax-research) — Tax-research platform from Wolters Kluwer with federal and state research materials, tools, and AI-enabled search.
 - [Checkpoint Edge](https://tax.thomsonreuters.com/en/products/checkpoint-edge) — Tax and accounting research platform from Thomson Reuters with AI- and machine-learning-assisted search tools.
-- [IRS Tax Pro Account](https://www.irs.gov/tax-professionals) — IRS online service for qualified tax professionals, including authorization requests and management of active CAF authorizations.
+- [IRS Tax Pro Account](https://www.irs.gov/tax-professionals/tax-pro-account) — IRS online service for tax professionals to manage authorizations and, with appropriate authorization, make certain payments for individual and business clients.
 
 ### Tax resolution and representation
 

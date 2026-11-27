@@ -32,6 +32,8 @@ Run a small, firm-approved test using representative but appropriately protected
 
 The IRS lists Tax Pro Account, online submission, and mail or fax as options for submitting Forms 2848 and 8821; the appropriate path depends on the current IRS rules and the matter. [IRS submission options](https://www.irs.gov/tax-professionals/submit-forms-2848-and-8821-online)
 
+The IRS announced in November 2026 that authorized tax professionals can make certain payments for business clients through Tax Pro Account. Confirm the current payment types and appropriate authorization for the client and tax matters before designing a related workflow. [IRS announcement](https://www.irs.gov/newsroom/irs-expands-tax-pro-account-for-business-client-payments) · [Tax Pro Account](https://www.irs.gov/tax-professionals/tax-pro-account)
+
 ## 3. Require provider evidence without treating it as an IRS claim
 
 For each product considered, record the date and URL for the exact plan or feature. Ask the provider to distinguish its workflow capabilities from any official IRS system or firm responsibility.
