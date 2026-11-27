@@ -2,6 +2,10 @@
 
 All notable editorial changes are documented here. Product links and factual descriptions are verified against official vendor sources at the time of publication.
 
+## 2026-11-27
+
+- Updated the IRS Tax Pro Account entry to its direct official page and noted the November 2026 expansion to certain authorized business-client payments in the IRS-connected workflow guide.
+
 ## 2026-11-25
 
 - Added Drake Tax Online as a distinct web-based professional tax-preparation platform, verified against Drake Software's product page and its current product overview.
